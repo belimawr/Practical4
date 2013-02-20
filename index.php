@@ -3,12 +3,7 @@
 	<?php include 'templates.php'; ?>
 	 <link rel="stylesheet" type="text/css" href="index.css">
 
-		<div id="header">
-			<div id="headerlogo"> <img id="logo" src="logo.jpg" alt="logo"> </div>
-			<div id="title"><h1>ICWD 2014 </br> May 15th - 20th 2014 </br> Glasgow, United Kingdom </h1> </div>
-
-		</div>
-		
+		<?php name_logo(); ?>	
 		<div id="container">	
 
 			<?php print_menu(); ?>

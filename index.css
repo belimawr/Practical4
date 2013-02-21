@@ -64,7 +64,8 @@ q { quotes: "\201C" "\201D" "\2018" "\2019"; }
 
 /* FORMS */
 
-fieldset { border: 1px solid #ccc; }
+fieldset { border: 1px solid width: 50px;
+margin-left: 10px;#ccc; }
 legend { background: #fff; }
 textarea, input[type='text'], select { border: 1px solid #ccc; background: #fff; }
 textarea:hover, input[type='text']:hover, input[type='password']:hover, select:hover { border-color: #aaa; }
@@ -222,6 +223,50 @@ margin-left: -40px;
 text-align:center;
 }
 
+#contact {
+padding-left: 22px;
+padding-top: 10px;
+}
+
+h2 {
+color:navy;
+}
+
+form {
+color:navy;
+font-size: 13px;
+}
+
+input {
+display:block;
+border: 1px solid #999;
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+#sub{
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+background-color:navy;
+color:white;
+width: 85px;
+margin-left:33px;
+}
+
+#f_logo {
+width: 50px;
+margin-left: 10px;
+float:left;
+margin-right: 15px;
+}
+
+#f_text {
+font-size: 20px;
+color: navy;
+}
+
 #content {
 width: 796px;
 height: 950px;
@@ -248,6 +293,7 @@ font-size: 15px;
 
 .youtube-player {
 margin-left: 55px;
+opacity:1.0;
 }
 
 #footer {

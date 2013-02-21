@@ -13,18 +13,18 @@ EOT;
 	function print_menu()
 	{
 		$menu = <<<EOT
-			<div id="menu">
-				<h2 id="navigation"> Navigation </h2>
-				<ul>
-					<LI><A HREF=index.php>Home</A></LI></BR>
-					<li><a href=addEntry2.html>Papers Submission</a></li></br>
-					<li><a href=viewAll.php>Key Dates </a></li></br>
-					<li><a href=viewAll.php>Registration </a></li></br>
-					<li><a href=viewAll.php>Workshops </a></li></br>
-					<li><a href=contact.php>Contact Us </a></li></br>
-					<li><a href=viewAll.php>Sponsors </a></li></br>
-				</ul>
-			</div>
+		<div id="menu">
+			<!--<h2 id="navigation"> Menu </h2>-->
+			<ul>
+				<li><span><a href=index.html>Home</a></span></li>
+				<li><span><a href=papers.html>Papers Submission</a></span></li>
+				<li><span><a href=keydates.html>Key Dates </a></span></li>
+				<li><span><a href=registration.html>Registration </a></span></li>
+				<li><span><a href=workshops.html>Workshops </a></span></li>
+				<li><span><a href=sponsors.html>Sponsors </a></span></li>
+
+			</ul>
+		</div>
 EOT;
 		print($menu);
 

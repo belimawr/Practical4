@@ -41,8 +41,6 @@ EOT;
 			
 		</div>
 
-			<a href=http://facebook.com><img id="f_logo" src="f_logo.png" alt="facebook_logo"></a> <span id="f_text"> Find us on Facebook! </span><br><br><br><br><br><br>
-EOT;
 		print($menu);
 
 	}

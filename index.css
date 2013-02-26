@@ -175,6 +175,12 @@ font-size: 29px;
 
 }
 
+#message_sent{
+text-align:center;
+font-size: 20;
+padding-top:25px;
+}
+
 #menu {
 width:200px;
 height:950px;

@@ -27,10 +27,10 @@ EOT;
 
 			<div id="contact">
 				<h2> Contact Us </h2>
-				<form>
+				<form method="POST" action="contact_form.php">
 					Name: <input type="text" name="name"><br>
 					E-mail: <input type="text" name="email"><br><br>
-					<textarea rows="10" cols="20"> Type your message here </textarea><br><br>
+					<textarea rows="10" cols="20" name="message"> Type your message here </textarea><br><br>
 					<input id="sub" type="submit" value="Submit">
 				</form>
 			</div>

@@ -6,4 +6,5 @@
 	$user = "StrathWEB";
 	$pass = "2013StrathWEB";
 	$contactTable = "contact";
+	$registrationTable = "registration";
 ?>

@@ -232,6 +232,12 @@ h2 {
 color:navy;
 }
 
+h3 {
+font-size: 17px;
+color:navy;
+text-align:center;
+}
+
 form {
 color:navy;
 font-size: 13px;
@@ -305,4 +311,9 @@ margin-left: -176px;
 margin-top: -14px;
 background-color: #888888;
 color: white;
+}
+
+#regist_form{
+text-align: left;
+margin-left: 30px;
 }

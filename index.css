@@ -323,3 +323,20 @@ color: white;
 text-align: left;
 margin-left: 30px;
 }
+
+.speaker{
+width:808px;
+height:204px;
+}
+
+.speakerImage{
+width:200px;
+height:200px;
+padding:2px;
+float:left;
+}
+.speakerText{
+width:600px;
+height:200px;
+padding:2px;
+}

@@ -22,6 +22,7 @@ EOT;
 				<li><span><a href=registration.php>Registration </a></span></li>
 				<li><span><a href=workshops.php>Workshops </a></span></li>
 				<li><span><a href=sponsors.php>Sponsors </a></span></li>
+				<li><span><a href=staff.php>Staff </a></span></li>
 
 			</ul>
 

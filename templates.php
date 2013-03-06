@@ -17,7 +17,6 @@ EOT;
 			<!--<h2 id="navigation"> Menu </h2>-->
 			<ul>
 				<li><span><a href=index.php>Home</a></span></li>
-				<li><span><a href=papers.php>Papers Submission</a></span></li>
 				<li><span><a href=keydates.php>Key Dates </a></span></li>
 				<li><span><a href=registration.php>Registration </a></span></li>
 				<li><span><a href=workshops.php>Workshops </a></span></li>

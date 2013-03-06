@@ -340,20 +340,22 @@ width:600px;
 height:200px;
 padding:2px;
 }
-.floatImageRight{
-width:200px;
-height:200px;
-padding-left:200px;
-padding-right:200px;
-padding-top:10px;
-float:right;
+.logo{
+width:655px;
+height:155px;
 }
-
-.floatImageLeft{
-width:200px;
-height:200px;
-padding-left:200px;
-padding-right:200px;
-padding-top:10px;
+.logoImage{
+width:150px;
+height:150px;
+padding:2px;
 float:left;
+}
+.logoText{
+width:500px;
+height:150px;
+padding:2px;
+}
+.messageText{
+font-size: 14px;
+padding-left: 5px;
 }

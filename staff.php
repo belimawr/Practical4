@@ -60,7 +60,7 @@ function authenticated($username, $password)
 				while ($row = mysql_fetch_array($regs))
 				{
 					print("<p class=\"messageText\">");
-					print("Name: ".$row['fname']."<BR>Surname: ".$row['sname']."E-mail: ".$row['email']."<BR>University: ".$row['university']."<BR>Address: ".$row['address']."<BR><BR>");
+					print("Name: ".$row['fname']."<BR>Surname: ".$row['sname']."<BR>E-mail: ".$row['email']."<BR>University: ".$row['university']."<BR>Address: ".$row['address']."<BR><BR>");
 					print("</p>");
 				}
 			print("</div>");

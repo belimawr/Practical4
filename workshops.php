@@ -11,7 +11,7 @@
 
 			<?php print_menu(); ?>
 			<div id="content">
-				<h1> workshops </h1>
+				<h1> Workshops </h1>
 				<div class ="speaker">
 					<img class ="speakerImage" src="Mark Dunlop.jpg" alt="mark"> 
 					<div class = "speakerText">
